@@ -1,3 +1,5 @@
+**Code-demo** [code-demo][https://drive.google.com/file/d/1CNsURGgGA9Z4fHPivX9-hxqwG01hB-HF/view?usp=sharing]
+
 **Problem Statement** <br>
 Prepare an agent by implementing Deep Q-Learning that can perform unsupervised trading in stock trade. The aim of this project is to train an agent that uses Q-learning and neural networks to predict the profit or loss by building a model and implementing it on a dataset that is available for evaluation.
 
@@ -35,7 +37,7 @@ The agent must possess the following hyperparameters: <br>
 Neural network has 3 hidden layers <br>
 Action and experience replay are defined <br>
 
-** Code and Dataset **
+**Code and Dataset** <br>
 -   This repo contains python notebook whose each cells can be executed sequentially to define, train and test our model.
 -   Dataset contains GSPC data in a csv file of different years.
 -   Uploaded model weights were trained on GSPC_2014 data with 7 episodes.
